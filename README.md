@@ -1,6 +1,6 @@
 # Online Vehicle Management System (Java)
 
-A simple system to manage vehicle records with a user-friendly interface.
+A simple system to manage vehicles with a user-friendly interface.
 
 ## Features
 - User login and registration
