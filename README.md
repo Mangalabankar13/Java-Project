@@ -6,7 +6,7 @@ A simple system to manage vehicles with a user-friendly interface.
 - User login and registration
 - Add, update, delete vehicle details
 - Admin panel to manage vehicles
-- Java  with SQL database
+- Java  with PostgreSQL database
 
 ## Technologies Used
 - Java(JSP)
